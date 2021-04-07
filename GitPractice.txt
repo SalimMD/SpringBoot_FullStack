@@ -1,0 +1,39 @@
+Git help init
+
+Git Bash Commands
+--------------------
+git help --Open the Documentation
+git init -- create a empty repository
+git status--  to check the status of created Empty Repository
+       staged Files   --ready to commit
+       Unstaged Files  --Modified files are in stage Files
+       Untracked Files --Newly Created Files,we need tostage them to commit in red color
+git add : This command is used to ad  file in staging ares
+
+   Syntax : git add < file-name >
+
+            git add --a  =========> To add all Files 
+   
+==================Command to Unstage Files
+  To Unstaged that Files
+   git rm --cached Test.java
+
+  To unstage all file
+  git rm --cached * 
+==================================================
+Clear ==>cmd to clear the screen
+============================Git Commit==========
+git commit  : this cmd is used to commit to our local repository in our machine
+
+git commit -m <'Initial msg Commit'>
+
+
+Note  : after commit to check any files are there 
+please check git status
+
+how can i commit to my central repository?
+Ans : from local repository to Central Repository
+
+git remote add origin https://github.com/SalimMD/SpringBoot_FullStack.git
+
+=======================================================
