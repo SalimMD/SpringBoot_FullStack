@@ -1,5 +1,13 @@
+==============
+echo "# SpringBoot_FullStack" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/SalimMD/SpringBoot_FullStack.git
+git push -u origin main
 Git help init
-
+==========================
 Git Bash Commands
 --------------------
 git help --Open the Documentation
@@ -14,6 +22,8 @@ git add : This command is used to ad  file in staging ares
 
             git add --a  =========> To add all Files 
    
+
+
 ==================Command to Unstage Files
   To Unstaged that Files
    git rm --cached Test.java
@@ -36,4 +46,25 @@ Ans : from local repository to Central Repository
 
 git remote add origin https://github.com/SalimMD/SpringBoot_FullStack.git
 
-=======================================================
+git push -u origin master (This is used changes from local to central
+
+Note : git push need to be done in very smoothly
+
+
+==============================git Checkout
+git checkout : From Central Repository to Local Repository
+
+git checkout -- <file-name>
+
+==============================git commands
+git help
+git help <cmd-name>
+git init
+git add
+git add --a
+git commit -m <msg>
+git push
+git reset HEAD <filename>
+git checkout
+git status
+===============================
