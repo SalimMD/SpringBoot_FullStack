@@ -67,7 +67,17 @@ git push
 git reset HEAD <filename>
 git checkout
 git status
-===============================
-when we make changes to files we need to stage them to commit
-To commit files to local we will use commit command
+===============================git log
+To check the history of commit  the below details
+
+a) commit-id
+b)author
+c)timestamp
+d)commit msg
+
+==============================git clone
+Project from Repository to local
+ git clone <project http /ssh>
+
+==============================
 
