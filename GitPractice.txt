@@ -84,6 +84,12 @@ To take the latest from the repository who commited by another Developer
 ===============================git push and git pull
 Push : from loacl to central 
 pull : from central to local
+================================git clone and git pull
+clone : complete project for the first time
 
+pull : take latest and update code from the repository
+
+
+==================================
 
 
