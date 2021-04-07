@@ -79,5 +79,11 @@ d)commit msg
 Project from Repository to local
  git clone <project http /ssh>
 
-==============================
+==============================git Pull
+To take the latest from the repository who commited by another Developer
+===============================git push and git pull
+Push : from loacl to central 
+pull : from central to local
+
+
 
