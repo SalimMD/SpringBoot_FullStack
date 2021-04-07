@@ -68,3 +68,6 @@ git reset HEAD <filename>
 git checkout
 git status
 ===============================
+when we make changes to files we need to stage them to commit
+To commit files to local we will use commit command
+
