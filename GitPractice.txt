@@ -92,6 +92,7 @@ pull : take latest and update code from the repository
 
 ==================================
 .gitignore folder will not be commited the target files will be ignored
+===============
 
 
 
