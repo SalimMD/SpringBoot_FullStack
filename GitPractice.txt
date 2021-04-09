@@ -101,5 +101,15 @@ holds temporary files
 git stash list
 git stash clear
 
-==============
+==============Pull request
+Pull Request is used merge the branch to not disturb the other branch
+feature to develop to master
+================Git Branch
+created feature branch
+git clone -b feture-200 <repo-url>
+
+git push <feature branch>
+
+
+
 
