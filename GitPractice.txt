@@ -96,4 +96,10 @@ pull : take latest and update code from the repository
 
 stash is nothing but storing the workwhat changes i have done in temporary area
 
+holds temporary files
+
+git stash list
+git stash clear
+
+==============
 
