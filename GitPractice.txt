@@ -92,7 +92,8 @@ pull : take latest and update code from the repository
 
 ==================================
 .gitignore folder will not be commited the target files will be ignored
-===============
+===============git Stash
 
+stash is nothing but storing the workwhat changes i have done in temporary area
 
 
